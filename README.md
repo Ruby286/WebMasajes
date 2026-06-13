@@ -8,7 +8,7 @@ Este proyecto es una **landing page de servicios de masajes** desarrollada como 
 
 La web está desplegada en un servidor real para simular un entorno de producción:
 
-👉 [Ver web en vivo]("[Poner el dominio](https://nuriamatos-masajes.netlify.app/)")
+👉 [Ver web en vivo](https://nuriamatos-masajes.netlify.app/)
 
 ---
 
