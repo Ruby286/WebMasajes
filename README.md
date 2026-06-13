@@ -59,5 +59,4 @@ El hosting se ha realizado mediante una plataforma de despliegue estático, lo q
 ├── index.html
 ├── styles.css
 ├── script.js
-└── assets/
-    └── imágenes
+└── images
